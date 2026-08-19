@@ -49,30 +49,36 @@ En lugar de escribir código complicado, permite programar utilizando **bloques 
 
 <div align="center">
 
-# 💎 Elementos de Scratch
-
-</div>
-
-### 🧩 Bloques principales
-
-Los bloques permiten controlar diferentes partes de un proyecto:
-
-|   🔵 Movimiento  |   🟣 Apariencia   |      🔊 Sonido     |
-| :--------------: | :---------------: | :----------------: |
-| Mover personajes | Cambiar disfraces | Reproducir sonidos |
-
-|    🟡 Eventos    |         🟠 Control         |      🔵 Sensores     |
-| :--------------: | :------------------------: | :------------------: |
-| Iniciar acciones | Repeticiones y condiciones | Detectar situaciones |
-
-|     🟢 Operadores    |     🔴 Variables    |
-| :------------------: | :-----------------: |
-| Realizar operaciones | Guardar información |
-
----
-
 <div align="center">
 
+💎 Elementos de Scratch
+🧩 Bloques principales
+
+<br>
+
+<img src="https://img.shields.io/badge/🔵%20MOVIMIENTO-4A90E2?style=for-the-badge"> <img src="https://img.shields.io/badge/🟣%20APARIENCIA-8E44AD?style=for-the-badge"> <img src="https://img.shields.io/badge/🔊%20SONIDO-E91E63?style=for-the-badge">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🟡%20EVENTOS-F9A825?style=for-the-badge"> <img src="https://img.shields.io/badge/🟠%20CONTROL-F57C00?style=for-the-badge"> <img src="https://img.shields.io/badge/🔵%20SENSORES-2980B9?style=for-the-badge">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🟢%20OPERADORES-43A047?style=for-the-badge"> <img src="https://img.shields.io/badge/🔴%20VARIABLES-E53935?style=for-the-badge">
+
+<br><br>
+
+Mover personajes · Cambiar disfraces · Reproducir sonidos
+
+<br>
+
+Iniciar acciones · Crear condiciones · Detectar situaciones
+
+<br>
+
+Realizar operaciones · Guardar información
+
+</div>
 # 🎮 ¿Qué puedes crear?
 
 </div>
