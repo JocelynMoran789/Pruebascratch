@@ -1,3 +1,5 @@
+
+
 # 🎨 SCRATCH
 
 ### 💻 Aprende · Crea · Programa
@@ -10,81 +12,94 @@
 
 Scratch transforma la programación en algo visual. En lugar de escribir código complicado, utilizas **bloques que encajan como piezas de rompecabezas**.
 
-🧩 Fácil de usar · 🎨 Creativo · 🎮 Interactivo · 🧠 Educativo
+|       🧩 Fácil      |     🎨 Creativo    | 🎮 Interactivo |     🧠 Educativo     |
+| :-----------------: | :----------------: | :------------: | :------------------: |
+| Aprende paso a paso | Usa tu imaginación | Crea proyectos | Desarrolla tu lógica |
 
 ---
 
 ## 🧩 SUS ELEMENTOS
 
-| 🎭 **Sprites**          | 🌄 **Escenario**             | 🧱 **Bloques**             |
-| ----------------------- | ---------------------------- | -------------------------- |
-| Personajes y objetos    | Lugar donde ocurre la acción | Instrucciones del programa |
-| Se mueven e interactúan | Fondos y ambientes           | Controlan cada acción      |
+|        🎭 **SPRITES**       |       🌄 **ESCENARIO**       |     🧱 **BLOQUES**     |
+| :-------------------------: | :--------------------------: | :--------------------: |
+|     Personajes y objetos    | Lugar donde ocurre la acción |      Instrucciones     |
+| Interactúan con el programa |      Fondos y ambientes      | Controlan las acciones |
 
 ---
 
 ## 🧱 BLOQUES PRINCIPALES
 
-🔵 **Movimiento** — Mover, girar y posicionar
-🟣 **Apariencia** — Disfraces, diálogos y efectos
-🟢 **Sonido** — Música y efectos de sonido
-🟡 **Eventos** — Iniciar acciones
-🟠 **Control** — Repeticiones y condiciones
-🔷 **Sensores** — Detectar objetos y situaciones
-🟢 **Operadores** — Cálculos y comparaciones
-🔴 **Variables** — Puntos, vidas, tiempo y datos
-🟣 **Mis bloques** — Crear instrucciones personalizadas
+| 🔵 **Movimiento** |   🟣 **Apariencia**  |   🟢 **Sonido**  |
+| :---------------: | :------------------: | :--------------: |
+|   Mover y girar   | Disfraces y diálogos | Música y efectos |
+
+|  🟡 **Eventos**  |       🟠 **Control**       |    🔷 **Sensores**   |
+| :--------------: | :------------------------: | :------------------: |
+| Iniciar acciones | Repeticiones y condiciones | Detectar situaciones |
+
+|     🟢 **Operadores**    |    🔴 **Variables**    |  🟣 **Mis bloques** |
+| :----------------------: | :--------------------: | :-----------------: |
+| Cálculos y comparaciones | Puntos, vidas y tiempo | Crear instrucciones |
 
 ---
 
 ## 🎮 ¿QUÉ PUEDES CREAR?
 
-🕹️ **Juegos**
-🎬 **Animaciones**
-📖 **Historias interactivas**
-🤖 **Simulaciones**
-📚 **Proyectos educativos**
+|   🕹️ **Juegos**  |  🎬 **Animaciones** |    📖 **Historias**    |
+| :---------------: | :-----------------: | :--------------------: |
+| Retos y aventuras | Personajes animados | Historias interactivas |
 
-También puedes agregar **vidas, puntos, niveles, enemigos, sonidos y pantallas de Game Over** para hacer tus proyectos más completos.
+|   🤖 **Simulaciones**  |    📚 **Educación**    | 💡 **Proyectos** |
+| :--------------------: | :--------------------: | :--------------: |
+| Experimentos virtuales | Actividades educativas |   Ideas propias  |
+
+### ✨ Puedes agregar
+
+| ❤️ Vidas | ⭐ Puntos | 🏆 Niveles | 👾 Enemigos | 🔊 Sonidos |
+| :------: | :------: | :--------: | :---------: | :--------: |
 
 ---
 
 ## 🧠 ¿QUÉ APRENDES?
 
-| Concepto            | ¿Para qué sirve?               |
-| ------------------- | ------------------------------ |
-| 🔵 **Variables**    | Guardar información            |
-| 🟢 **Condiciones**  | Tomar decisiones               |
-| 🟣 **Repeticiones** | Ejecutar acciones varias veces |
-| 🟡 **Eventos**      | Iniciar acciones               |
-| 🔴 **Mensajes**     | Comunicar personajes           |
-| 🟠 **Operadores**   | Realizar cálculos              |
+|   🔵 **Variables**  |     🟢 **Condiciones**    |  🟣 **Repeticiones**  |
+| :-----------------: | :-----------------------: | :-------------------: |
+| Guardan información | Permiten tomar decisiones | Repiten instrucciones |
+
+|  🟡 **Eventos**  |  🔴 **Mensajes**  | 🟠 **Operadores** |
+| :--------------: | :---------------: | :---------------: |
+| Inician acciones | Comunican sprites | Realizan cálculos |
 
 ---
 
 ## ⭐ ¿POR QUÉ APRENDER SCRATCH?
 
-✨ Desarrolla la **creatividad**
-🧠 Fortalece el **pensamiento lógico**
-💻 Introduce a la **programación**
-🔎 Mejora la **resolución de problemas**
-🎮 Permite aprender **creando proyectos propios**
+| 🧠 Pensamiento lógico |     🎨 Creatividad    |      💻 Programación      |
+| :-------------------: | :-------------------: | :-----------------------: |
+|   Resuelve problemas  | Crea ideas originales | Aprende conceptos básicos |
+
+|   🎮 Proyectos  |      🔎 Resolución     |         🚀 Innovación        |
+| :-------------: | :--------------------: | :--------------------------: |
+| Aprende creando | Mejora tu razonamiento | Convierte ideas en proyectos |
 
 ---
 
-## 🌊 MI EJEMPLO: AVENTURA SUBMARINA
+## 🌊 EJEMPLO: AVENTURA SUBMARINA
 
 Un juego donde un submarinista debe **recoger objetos, conseguir puntos y evitar enemigos**.
 
-**▶️ Inicio** → **🤿 Juego** → **🏆 Puntuación** → **💀 Game Over** → **🔄 Reiniciar**
+| ▶️ **INICIO** | 🤿 **JUEGO** | 🏆 **PUNTUACIÓN** |
+| :-----------: | :----------: | :---------------: |
+|  Botón Jugar  |   Personaje  |      ⭐ Puntos     |
+|   🎵 Música   |  👾 Enemigos |     ❤️ 3 vidas    |
 
-❤️ 3 vidas · ⭐ Puntos · 👾 Enemigos · 🔊 Sonidos
+| 💀 **GAME OVER** |   🔄 **REINICIAR**  |
+| :--------------: | :-----------------: |
+|  Pantalla final  | Comenzar nuevamente |
 
 ---
 
 ## 🚀 EN RESUMEN
-
-Scratch demuestra que **programar también puede ser creativo y divertido**.
 
 > 🧠 **PIENSA** · 🎨 **CREA** · 💻 **PROGRAMA** · 🚀 **INNOVA**
 
