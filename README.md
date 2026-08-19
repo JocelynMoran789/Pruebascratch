@@ -1,99 +1,178 @@
 
 <div align="center">
 
-# ✨ ¡Hola! **SCRATCH**
+# ✨ SCRATCH
 
 ### 💻 Aprende · 🎨 Crea · 🚀 Programa
 
-**Una forma divertida de aprender programación creando tus propias ideas.**
-
-<img src="imagen/3e.jpg" width="300">
-
----
-
-## 🌟 ¿Qué es Scratch?
-
-**Scratch** es una plataforma de programación visual creada para aprender de manera **sencilla, creativa y divertida**.
-
-En lugar de escribir código complicado, utiliza **bloques que se unen como piezas de rompecabezas**.
+**Aprende programación de una manera fácil, creativa y divertida.**
 
 <br>
 
-| 🎮 **Juegos** | 🎬 **Animaciones** | 📖 **Historias** |
-|:---:|:---:|:---:|
-| Crea juegos interactivos | Diseña animaciones | Cuenta tus propias historias |
+<img src="imagen/3e.jpg" width="380">
 
-| 🤖 **Simulaciones** | 💡 **Proyectos** |
-|:---:|:---:|
-| Experimenta con ideas | Desarrolla tu creatividad |
+<br><br>
 
-<img src="imagen/2e.jpg" width="300">
+`🎮 PROGRAMACIÓN` · `🎨 CREATIVIDAD` · `🧠 LÓGICA` · `🚀 PROYECTOS`
+
+</div>
 
 ---
 
-# 💎 Sus elementos
+<div align="center">
 
-| 🧩 **Bloques principales** | 🎮 **¿Qué puedes crear?** |
-|:---:|:---:|
-| Movimiento | Juegos |
-| Apariencia | Animaciones |
-| Sonido | Historias |
-| Eventos | Simulaciones |
-| Control | Proyectos |
-| Sensores | Experimentos |
+# 🌟 ¿Qué es Scratch?
+
+</div>
+
+**Scratch** es una plataforma de programación visual diseñada para aprender de forma **sencilla, creativa y divertida**.
+
+En lugar de escribir código complicado, permite programar utilizando **bloques que se conectan como piezas de rompecabezas**.
+
+<div align="center">
+
+|       🎮 **Juegos**      | 🎬 **Animaciones** | 📖 **Historias** |
+| :----------------------: | :----------------: | :--------------: |
+| Crea juegos interactivos | Diseña animaciones | Cuenta historias |
+
+|  🤖 **Simulaciones**  |   💡 **Proyectos**   |    🎨 **Creaciones**   |
+| :-------------------: | :------------------: | :--------------------: |
+| Experimenta con ideas | Desarrolla proyectos | Expresa tu creatividad |
+
+<br>
+
+<img src="imagen/2e.jpg" width="380">
+
+</div>
 
 ---
+
+<div align="center">
+
+# 💎 Elementos de Scratch
+
+</div>
+
+### 🧩 Bloques principales
+
+Los bloques permiten controlar diferentes partes de un proyecto:
+
+|   🔵 Movimiento  |   🟣 Apariencia   |      🔊 Sonido     |
+| :--------------: | :---------------: | :----------------: |
+| Mover personajes | Cambiar disfraces | Reproducir sonidos |
+
+|    🟡 Eventos    |         🟠 Control         |      🔵 Sensores     |
+| :--------------: | :------------------------: | :------------------: |
+| Iniciar acciones | Repeticiones y condiciones | Detectar situaciones |
+
+|     🟢 Operadores    |     🔴 Variables    |
+| :------------------: | :-----------------: |
+| Realizar operaciones | Guardar información |
+
+---
+
+<div align="center">
+
+# 🎮 ¿Qué puedes crear?
+
+</div>
+
+<div align="center">
+
+|      🎮 Juegos      |    🎬 Animaciones   |     📖 Historias    |
+| :-----------------: | :-----------------: | :-----------------: |
+| Juegos interactivos | Personajes animados | Historias digitales |
+
+| 🎵 Proyectos musicales |    🤖 Simulaciones    |   🌎 Experimentos  |
+| :--------------------: | :-------------------: | :----------------: |
+|    Música y sonidos    | Situaciones virtuales | Ideas interactivas |
+
+</div>
+
+---
+
+<div align="center">
 
 # 🧠 ¿Qué aprendes?
 
-| 💻 **Programación** | 🎨 **Creatividad** | 🧩 **Lógica** |
-|:---:|:---:|:---:|
-| Aprendes a programar | Desarrollas ideas | Resuelves problemas |
+### 💻 Programación · 🎨 Creatividad · 🧩 Lógica
 
-| 🚀 **Pensamiento** | 🤝 **Trabajo** | 💡 **Innovación** |
-|:---:|:---:|:---:|
-| Mejoras tu razonamiento | Creas proyectos | Exploras nuevas ideas |
+</div>
+
+| 🌟 Habilidad                   | 📚 Aprendizaje                               |
+| :----------------------------- | :------------------------------------------- |
+| 💻 **Programación**            | Comprender conceptos básicos de programación |
+| 🧠 **Pensamiento lógico**      | Resolver problemas paso a paso               |
+| 🎨 **Creatividad**             | Crear proyectos originales                   |
+| 🧩 **Resolución de problemas** | Encontrar soluciones mediante la lógica      |
+| 🚀 **Innovación**              | Transformar ideas en proyectos               |
 
 ---
+
+<div align="center">
 
 # 💠 Mis aprendizajes
 
-✨ Crear proyectos desde cero  
-🧩 Utilizar bloques de programación  
-🎮 Diseñar juegos interactivos  
-🧠 Resolver problemas mediante lógica  
-🎨 Desarrollar creatividad  
-🚀 Convertir ideas en proyectos  
+<br>
+
+`🧩 BLOQUES` `🎮 JUEGOS` `🎨 CREATIVIDAD`
+
+`🧠 LÓGICA` `🚀 PROYECTOS` `💻 PROGRAMACIÓN`
+
+</div>
 
 ---
+
+<div align="center">
 
 # 🌊 Ejemplo de proyecto
 
-### 🤿 **Aventura Submarina**
+## 🤿 Aventura Submarina
 
-Un juego donde un submarinista debe **recoger objetos, conseguir puntos y evitar enemigos**.
-
-<img src="imagen/1e.png" width="300">
+**Un juego donde un submarinista debe recoger objetos, conseguir puntos y evitar enemigos.**
 
 <br>
 
-| 🎯 **Objetivo** | ⭐ **Puntos** | ❤️ **Desafío** |
-|:---:|:---:|:---:|
+<img src="imagen/1e.png" width="420">
+
+<br><br>
+
+|   🎯 Objetivo   |   ⭐ Puntuación   |    ⚠️ Desafío   |
+| :-------------: | :--------------: | :-------------: |
 | Recoger objetos | Conseguir puntos | Evitar enemigos |
+
+</div>
 
 ---
 
+<div align="center">
+
 # 🚀 ¿Por qué aprender Scratch?
 
-Scratch permite **aprender haciendo**. Cada proyecto ayuda a desarrollar la **creatividad, el razonamiento y la capacidad de resolver problemas**.
+Scratch permite **aprender haciendo** y convertir las ideas en proyectos interactivos.
 
 <br>
 
-### ✨ ¡Tu imaginación es el límite! ✨
+### 💻 Programar
 
-💻 **Aprende** · 🎨 **Crea** · 🚀 **Programa**
+Aprende los fundamentos de la programación.
+
+### 🎨 Crear
+
+Desarrolla tu imaginación y creatividad.
+
+### 🧠 Pensar
+
+Mejora tu lógica y resolución de problemas.
+
+### 🚀 Experimentar
+
+Crea, prueba, modifica y vuelve a intentar.
+
+---
+
+# ✨ ¡Tu imaginación es el límite!
+
+### 💻 Aprende · 🎨 Crea · 🚀 Programa
 
 </div>
-```
-
-Con esta estructura los títulos ya no quedan amontonados como en la imagen y las secciones se ven mucho más **limpias, profesionales y organizadas** en GitHub.
