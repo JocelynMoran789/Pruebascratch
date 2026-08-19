@@ -116,9 +116,15 @@ Los bloques permiten controlar diferentes partes de un proyecto:
 
 <br>
 
-`🧩 BLOQUES` `🎮 JUEGOS` `🎨 CREATIVIDAD`
+<img src="https://img.shields.io/badge/🧩%20BLOQUES-8E7CC3?style=for-the-badge">
+<img src="https://img.shields.io/badge/🎮%20JUEGOS-EF5350?style=for-the-badge">
+<img src="https://img.shields.io/badge/🎨%20CREATIVIDAD-F9A825?style=for-the-badge">
 
-`🧠 LÓGICA` `🚀 PROYECTOS` `💻 PROGRAMACIÓN`
+<br><br>
+
+<img src="https://img.shields.io/badge/🧠%20LÓGICA-42A5F5?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀%20PROYECTOS-43A047?style=for-the-badge">
+<img src="https://img.shields.io/badge/💻%20PROGRAMACIÓN-26A69A?style=for-the-badge">
 
 </div>
 
