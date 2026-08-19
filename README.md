@@ -1,6 +1,5 @@
-Claro. Te lo dejo **todo integrado y ordenado**, manteniendo tu contenido, pero mejorando la distribución, centrado y agregando más color visual a las tablas mediante badges y encabezados. También corregí el `</div>` que estaba sobrando.
 
-```markdown
+
 <div align="center">
 
 # ✨ SCRATCH
