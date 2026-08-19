@@ -1,6 +1,4 @@
-Sí. El problema es que tienes varios `##` seguidos, por eso GitHub los muestra como títulos enormes y separados. Te lo dejo **más ordenado, centrado, con tarjetas de colores y mejor distribución**, manteniendo tus imágenes.
 
-```markdown
 <div align="center">
 
 # ✨ ¡Hola! **SCRATCH**
