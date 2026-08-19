@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 # ✨ ¡Hola! **SCRATCH**
@@ -7,6 +6,8 @@
 ### 💻 Aprende · 🎨 Crea · 🚀 Programa
 
 **Una forma divertida de aprender programación creando tus propias ideas.**
+
+<img src="C:\Users\jocelyn\Downloads\imagen\1e.png" width="500">
 
 </div>
 
@@ -20,7 +21,7 @@
 <td bgcolor="#16B8C4"><font color="white"><b>🎨 CREATIVIDAD</b></font></td>
 <td bgcolor="#9B4DCC"><font color="white"><b>🎮 PROYECTOS</b></font></td>
 <td bgcolor="#4CAF50"><font color="white"><b>🧠 LÓGICA</b></font></td>
-<td bgcolor="#F4A261"><b>🚀 INNOVACIÓN</b></td>
+<td bgcolor="#F4A261"><b>🚀 INNOVACIÓN</b></font></td>
 </tr>
 </table>
 
@@ -41,6 +42,10 @@ En lugar de escribir código complicado, utiliza **bloques que se unen como piez
 ## 💎 Sus elementos
 
 <div align="center">
+
+<img src="C:\Users\jocelyn\Downloads\imagen\2e.jpg" width="600">
+
+<br><br>
 
 <table>
 <tr>
@@ -191,6 +196,12 @@ En lugar de escribir código complicado, utiliza **bloques que se unen como piez
 
 ### 🤿 Aventura Submarina
 
+<div align="center">
+
+<img src="C:\Users\jocelyn\Downloads\imagen\3e.jpg" width="600">
+
+</div>
+
 Un juego donde un submarinista debe **recoger objetos, conseguir puntos y evitar enemigos**.
 
 <div align="center">
@@ -223,10 +234,11 @@ Scratch permite **aprender haciendo**. Cada proyecto ayuda a desarrollar la **cr
 <td bgcolor="#4C97FF"><font color="white"><b>🧠 PIENSA</b></font></td>
 <td bgcolor="#FF66A3"><font color="white"><b>🎨 CREA</b></font></td>
 <td bgcolor="#59C059"><font color="white"><b>💻 PROGRAMA</b></font></td>
-<td bgcolor="#FF9F43"><b>🚀 INNOVA</b></td>
+<td bgcolor="#FF9F43"><b>🚀 INNOVA</b></font></td>
 </tr>
 </table>
 
 ### ✨ ¡Tu imaginación es el límite! ✨
 
 </div>
+
