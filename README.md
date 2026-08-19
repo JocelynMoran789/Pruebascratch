@@ -5,8 +5,8 @@
 ### 💻 Aprende · 🎨 Crea · 🚀 Programa
 
 **Una forma divertida de aprender programación creando tus propias ideas.**
+<img src="imagen/3e.jpg" width="300">
 
-<img src="imagen/1e.png" width="300">
 
 ---
 
@@ -40,7 +40,7 @@ En lugar de escribir código complicado, utiliza **bloques que se unen como piez
 
 Un juego donde un submarinista debe **recoger objetos, conseguir puntos y evitar enemigos**.
 
-<img src="imagen/3e.jpg" width="300">
+<img src="imagen/1e.png" width="300">
 
 ---
 
