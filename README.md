@@ -98,19 +98,42 @@ Los bloques permiten controlar diferentes partes de un proyecto:
 
 ### 💻 Programación · 🎨 Creatividad · 🧩 Lógica
 
-</div>
+<br>
 
-| 🌟 Habilidad                   | 📚 Aprendizaje                               |
-| :----------------------------- | :------------------------------------------- |
-| 💻 **Programación**            | Comprender conceptos básicos de programación |
-| 🧠 **Pensamiento lógico**      | Resolver problemas paso a paso               |
-| 🎨 **Creatividad**             | Crear proyectos originales                   |
-| 🧩 **Resolución de problemas** | Encontrar soluciones mediante la lógica      |
-| 🚀 **Innovación**              | Transformar ideas en proyectos               |
+<table>
+  <tr>
+    <th>🌟 Habilidad</th>
+    <th>📚 Aprendizaje</th>
+  </tr>
+  <tr>
+    <td>💻 <strong>Programación</strong></td>
+    <td>Comprender conceptos básicos de programación</td>
+  </tr>
+  <tr>
+    <td>🧠 <strong>Pensamiento lógico</strong></td>
+    <td>Resolver problemas paso a paso</td>
+  </tr>
+  <tr>
+    <td>🎨 <strong>Creatividad</strong></td>
+    <td>Crear proyectos originales</td>
+  </tr>
+  <tr>
+    <td>🧩 <strong>Resolución de problemas</strong></td>
+    <td>Encontrar soluciones mediante la lógica</td>
+  </tr>
+  <tr>
+    <td>🚀 <strong>Innovación</strong></td>
+    <td>Transformar ideas en proyectos</td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
-<div align="center">
+### ✨ ¡Aprende, crea y transforma tus ideas con Scratch! 🚀
+
+</div>
 
 # 💠 Mis aprendizajes
 
