@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # ✨ ¡Hola! **SCRATCH**
@@ -7,7 +6,7 @@
 
 **Una forma divertida de aprender programación creando tus propias ideas.**
 
-<img src="C:\Users\jocelyn\Downloads\imagen\1e.png" width="500">
+<img src="1e.png" width="500">
 
 </div>
 
@@ -43,7 +42,7 @@ En lugar de escribir código complicado, utiliza **bloques que se unen como piez
 
 <div align="center">
 
-<img src="C:\Users\jocelyn\Downloads\imagen\2e.jpg" width="600">
+<img src="2e.jpg" width="600">
 
 <br><br>
 
@@ -155,6 +154,7 @@ En lugar de escribir código complicado, utiliza **bloques que se unen como piez
 <td>Tomar decisiones</td>
 <td>Repetir instrucciones</td>
 </tr>
+
 <tr>
 <th>🟡 EVENTOS</th>
 <th>🔴 MENSAJES</th>
@@ -198,7 +198,7 @@ En lugar de escribir código complicado, utiliza **bloques que se unen como piez
 
 <div align="center">
 
-<img src="C:\Users\jocelyn\Downloads\imagen\3e.jpg" width="600">
+<img src="3e.jpg" width="600">
 
 </div>
 
@@ -212,6 +212,7 @@ Un juego donde un submarinista debe **recoger objetos, conseguir puntos y evitar
 <td bgcolor="#59C059"><font color="white"><b>🤿 JUEGO</b></font><br>Personaje<br>👾 Enemigos</td>
 <td bgcolor="#FFBF00"><b>🏆 PUNTUACIÓN</b><br>⭐ Puntos<br>❤️ 3 vidas</td>
 </tr>
+
 <tr>
 <td bgcolor="#FF6680"><font color="white"><b>💀 GAME OVER</b></font><br>Pantalla final</td>
 <td bgcolor="#9966FF"><font color="white"><b>🔄 REINICIAR</b></font><br>Comenzar nuevamente</td>
