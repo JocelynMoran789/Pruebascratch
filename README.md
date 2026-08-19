@@ -156,31 +156,23 @@ Los bloques permiten controlar diferentes partes de un proyecto:
 
 # 🚀 ¿Por qué aprender Scratch?
 
-Scratch permite **aprender haciendo** y convertir las ideas en proyectos interactivos.
+**Scratch permite aprender haciendo y convertir las ideas en proyectos interactivos.**
 
 <br>
 
-### 💻 Programar
+| 💻 **Programar** | 🎨 **Crear** |
+|:---:|:---:|
+| Aprende los fundamentos de la programación. | Desarrolla tu imaginación y creatividad. |
 
-Aprende los fundamentos de la programación.
+| 🧠 **Pensar** | 🚀 **Experimentar** |
+|:---:|:---:|
+| Mejora tu lógica y resolución de problemas. | Crea, prueba, modifica y vuelve a intentar. |
 
-### 🎨 Crear
-
-Desarrolla tu imaginación y creatividad.
-
-### 🧠 Pensar
-
-Mejora tu lógica y resolución de problemas.
-
-### 🚀 Experimentar
-
-Crea, prueba, modifica y vuelve a intentar.
+<br>
 
 ---
 
-# ✨ ¡Tu imaginación es el límite!
-
-### 💻 Aprende · 🎨 Crea · 🚀 Programa
+### ✨ Aprende • Crea • Piensa • Experimenta
 
 </div>
 
