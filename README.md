@@ -231,9 +231,9 @@ Los bloques permiten controlar diferentes partes de un proyecto.
 
 # 🌊 Ejemplo de proyecto
 
-## 🤿 Aventura Submarina
+## pong game
 
-**Un juego donde un submarinista debe recoger objetos, conseguir puntos y evitar enemigos.**
+**Un juego donde un el balón tiene que explotar todos los globos .**
 
 <br>
 
@@ -334,5 +334,4 @@ Los bloques permiten controlar diferentes partes de un proyecto.
 </div>
 ```
 
-Con esta versión las secciones quedan **más uniformes**, las tablas están centradas y los colores de los badges ayudan a diferenciar cada habilidad sin hacer que el README se vea demasiado cargado.
 
