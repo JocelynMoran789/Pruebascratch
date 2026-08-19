@@ -1,3 +1,6 @@
+Sí. El problema es que tienes varios `##` seguidos, por eso GitHub los muestra como títulos enormes y separados. Te lo dejo **más ordenado, centrado, con tarjetas de colores y mejor distribución**, manteniendo tus imágenes.
+
+```markdown
 <div align="center">
 
 # ✨ ¡Hola! **SCRATCH**
@@ -5,8 +8,8 @@
 ### 💻 Aprende · 🎨 Crea · 🚀 Programa
 
 **Una forma divertida de aprender programación creando tus propias ideas.**
-<img src="imagen/3e.jpg" width="300">
 
+<img src="imagen/3e.jpg" width="300">
 
 ---
 
@@ -16,39 +19,83 @@
 
 En lugar de escribir código complicado, utiliza **bloques que se unen como piezas de rompecabezas**.
 
-🎮 **Juegos** · 🎬 **Animaciones** · 📖 **Historias** · 🤖 **Simulaciones** · 💡 **Proyectos**
+<br>
+
+| 🎮 **Juegos** | 🎬 **Animaciones** | 📖 **Historias** |
+|:---:|:---:|:---:|
+| Crea juegos interactivos | Diseña animaciones | Cuenta tus propias historias |
+
+| 🤖 **Simulaciones** | 💡 **Proyectos** |
+|:---:|:---:|
+| Experimenta con ideas | Desarrolla tu creatividad |
 
 <img src="imagen/2e.jpg" width="300">
 
 ---
 
-## 💎 Sus elementos
+# 💎 Sus elementos
 
-## 🧩 Bloques principales
+| 🧩 **Bloques principales** | 🎮 **¿Qué puedes crear?** |
+|:---:|:---:|
+| Movimiento | Juegos |
+| Apariencia | Animaciones |
+| Sonido | Historias |
+| Eventos | Simulaciones |
+| Control | Proyectos |
+| Sensores | Experimentos |
 
-## 🎮 ¿Qué puedes crear?
+---
 
-### ✨ Puedes agregar
+# 🧠 ¿Qué aprendes?
 
-## 🧠 ¿Qué aprendes?
+| 💻 **Programación** | 🎨 **Creatividad** | 🧩 **Lógica** |
+|:---:|:---:|:---:|
+| Aprendes a programar | Desarrollas ideas | Resuelves problemas |
 
-## 💠 Mis aprendizajes
+| 🚀 **Pensamiento** | 🤝 **Trabajo** | 💡 **Innovación** |
+|:---:|:---:|:---:|
+| Mejoras tu razonamiento | Creas proyectos | Exploras nuevas ideas |
 
-## 🌊 Ejemplo de proyecto
+---
 
-### 🤿 Aventura Submarina
+# 💠 Mis aprendizajes
+
+✨ Crear proyectos desde cero  
+🧩 Utilizar bloques de programación  
+🎮 Diseñar juegos interactivos  
+🧠 Resolver problemas mediante lógica  
+🎨 Desarrollar creatividad  
+🚀 Convertir ideas en proyectos  
+
+---
+
+# 🌊 Ejemplo de proyecto
+
+### 🤿 **Aventura Submarina**
 
 Un juego donde un submarinista debe **recoger objetos, conseguir puntos y evitar enemigos**.
 
 <img src="imagen/1e.png" width="300">
 
+<br>
+
+| 🎯 **Objetivo** | ⭐ **Puntos** | ❤️ **Desafío** |
+|:---:|:---:|:---:|
+| Recoger objetos | Conseguir puntos | Evitar enemigos |
+
 ---
 
-## 🚀 ¿Por qué aprender Scratch?
+# 🚀 ¿Por qué aprender Scratch?
 
 Scratch permite **aprender haciendo**. Cada proyecto ayuda a desarrollar la **creatividad, el razonamiento y la capacidad de resolver problemas**.
 
+<br>
+
 ### ✨ ¡Tu imaginación es el límite! ✨
 
-</div>
+💻 **Aprende** · 🎨 **Crea** · 🚀 **Programa**
 
+</div>
+```
+
+Con esta estructura los títulos ya no quedan amontonados como en la imagen y las secciones se ven mucho más **limpias, profesionales y organizadas** en GitHub.
