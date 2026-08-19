@@ -1,3 +1,4 @@
+ahora quiero que  Elementos de Scratch en la parte Bloques principales todos sean cuadros de colores 
 <div align="center">
 
 # ✨ SCRATCH
@@ -12,10 +13,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🎮%20PROGRAMACIÓN-8E7CC3?style=for-the-badge">
-<img src="https://img.shields.io/badge/🎨%20CREATIVIDAD-EF5350?style=for-the-badge">
-<img src="https://img.shields.io/badge/🧠%20LÓGICA-F9A825?style=for-the-badge">
-<img src="https://img.shields.io/badge/🚀%20PROYECTOS-42A5F5?style=for-the-badge">
+`🎮 PROGRAMACIÓN` · `🎨 CREATIVIDAD` · `🧠 LÓGICA` · `🚀 PROYECTOS`
 
 </div>
 
@@ -33,17 +31,15 @@ En lugar de escribir código complicado, permite programar utilizando **bloques 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎮%20JUEGOS-EF5350?style=for-the-badge">
-<img src="https://img.shields.io/badge/🎬%20ANIMACIONES-F9A825?style=for-the-badge">
-<img src="https://img.shields.io/badge/📖%20HISTORIAS-42A5F5?style=for-the-badge">
+|       🎮 **Juegos**      | 🎬 **Animaciones** | 📖 **Historias** |
+| :----------------------: | :----------------: | :--------------: |
+| Crea juegos interactivos | Diseña animaciones | Cuenta historias |
 
-<br><br>
+|  🤖 **Simulaciones**  |   💡 **Proyectos**   |    🎨 **Creaciones**   |
+| :-------------------: | :------------------: | :--------------------: |
+| Experimenta con ideas | Desarrolla proyectos | Expresa tu creatividad |
 
-<img src="https://img.shields.io/badge/🤖%20SIMULACIONES-8E7CC3?style=for-the-badge">
-<img src="https://img.shields.io/badge/💡%20PROYECTOS-43A047?style=for-the-badge">
-<img src="https://img.shields.io/badge/🎨%20CREACIONES-26A69A?style=for-the-badge">
-
-<br><br>
+<br>
 
 <img src="imagen/2e.jpg" width="380">
 
@@ -55,38 +51,23 @@ En lugar de escribir código complicado, permite programar utilizando **bloques 
 
 # 💎 Elementos de Scratch
 
-## 🧩 Bloques principales
-
-<br>
-
-<img src="https://img.shields.io/badge/🔵%20MOVIMIENTO-4A90E2?style=for-the-badge">
-<img src="https://img.shields.io/badge/🟣%20APARIENCIA-8E44AD?style=for-the-badge">
-<img src="https://img.shields.io/badge/🔊%20SONIDO-E91E63?style=for-the-badge">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🟡%20EVENTOS-F9A825?style=for-the-badge">
-<img src="https://img.shields.io/badge/🟠%20CONTROL-F57C00?style=for-the-badge">
-<img src="https://img.shields.io/badge/🔵%20SENSORES-2980B9?style=for-the-badge">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🟢%20OPERADORES-43A047?style=for-the-badge">
-<img src="https://img.shields.io/badge/🔴%20VARIABLES-E53935?style=for-the-badge">
-
-<br><br>
-
-**Mover personajes · Cambiar disfraces · Reproducir sonidos**
-
-<br>
-
-**Iniciar acciones · Crear condiciones · Detectar situaciones**
-
-<br>
-
-**Realizar operaciones · Guardar información**
-
 </div>
+
+### 🧩 Bloques principales
+
+Los bloques permiten controlar diferentes partes de un proyecto:
+
+|   🔵 Movimiento  |   🟣 Apariencia   |      🔊 Sonido     |
+| :--------------: | :---------------: | :----------------: |
+| Mover personajes | Cambiar disfraces | Reproducir sonidos |
+
+|    🟡 Eventos    |         🟠 Control         |      🔵 Sensores     |
+| :--------------: | :------------------------: | :------------------: |
+| Iniciar acciones | Repeticiones y condiciones | Detectar situaciones |
+
+|     🟢 Operadores    |     🔴 Variables    |
+| :------------------: | :-----------------: |
+| Realizar operaciones | Guardar información |
 
 ---
 
@@ -94,17 +75,17 @@ En lugar de escribir código complicado, permite programar utilizando **bloques 
 
 # 🎮 ¿Qué puedes crear?
 
-<br>
+</div>
 
-<img src="https://img.shields.io/badge/🎮%20JUEGOS-EF5350?style=for-the-badge">
-<img src="https://img.shields.io/badge/🎬%20ANIMACIONES-F9A825?style=for-the-badge">
-<img src="https://img.shields.io/badge/📖%20HISTORIAS-42A5F5?style=for-the-badge">
+<div align="center">
 
-<br><br>
+|      🎮 Juegos      |    🎬 Animaciones   |     📖 Historias    |
+| :-----------------: | :-----------------: | :-----------------: |
+| Juegos interactivos | Personajes animados | Historias digitales |
 
-<img src="https://img.shields.io/badge/🎵%20MÚSICA-8E7CC3?style=for-the-badge">
-<img src="https://img.shields.io/badge/🤖%20SIMULACIONES-43A047?style=for-the-badge">
-<img src="https://img.shields.io/badge/🌎%20EXPERIMENTOS-26A69A?style=for-the-badge">
+| 🎵 Proyectos musicales |    🤖 Simulaciones    |   🌎 Experimentos  |
+| :--------------------: | :-------------------: | :----------------: |
+|    Música y sonidos    | Situaciones virtuales | Ideas interactivas |
 
 </div>
 
@@ -116,20 +97,19 @@ En lugar de escribir código complicado, permite programar utilizando **bloques 
 
 ### 💻 Programación · 🎨 Creatividad · 🧩 Lógica
 
-<br>
-
-<img src="https://img.shields.io/badge/💻%20PROGRAMACIÓN-26A69A?style=for-the-badge">
-<img src="https://img.shields.io/badge/🧠%20PENSAMIENTO%20LÓGICO-42A5F5?style=for-the-badge">
-<img src="https://img.shields.io/badge/🎨%20CREATIVIDAD-EF5350?style=for-the-badge">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🧩%20RESOLUCIÓN%20DE%20PROBLEMAS-F9A825?style=for-the-badge">
-<img src="https://img.shields.io/badge/🚀%20INNOVACIÓN-8E7CC3?style=for-the-badge">
-
 </div>
 
+| 🌟 Habilidad                   | 📚 Aprendizaje                               |
+| :----------------------------- | :------------------------------------------- |
+| 💻 **Programación**            | Comprender conceptos básicos de programación |
+| 🧠 **Pensamiento lógico**      | Resolver problemas paso a paso               |
+| 🎨 **Creatividad**             | Crear proyectos originales                   |
+| 🧩 **Resolución de problemas** | Encontrar soluciones mediante la lógica      |
+| 🚀 **Innovación**              | Transformar ideas en proyectos               |
+
 ---
+
+<div align="center">
 
 <div align="center">
 
@@ -165,9 +145,9 @@ En lugar de escribir código complicado, permite programar utilizando **bloques 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🎯%20OBJETIVO-42A5F5?style=for-the-badge">
-<img src="https://img.shields.io/badge/⭐%20PUNTUACIÓN-F9A825?style=for-the-badge">
-<img src="https://img.shields.io/badge/⚠️%20DESAFÍO-EF5350?style=for-the-badge">
+|   🎯 Objetivo   |   ⭐ Puntuación   |    ⚠️ Desafío   |
+| :-------------: | :--------------: | :-------------: |
+| Recoger objetos | Conseguir puntos | Evitar enemigos |
 
 </div>
 
@@ -177,16 +157,25 @@ En lugar de escribir código complicado, permite programar utilizando **bloques 
 
 # 🚀 ¿Por qué aprender Scratch?
 
+Scratch permite **aprender haciendo** y convertir las ideas en proyectos interactivos.
+
 <br>
 
-<img src="https://img.shields.io/badge/💻%20PROGRAMAR-26A69A?style=for-the-badge">
-<img src="https://img.shields.io/badge/🎨%20CREAR-EF5350?style=for-the-badge">
-<img src="https://img.shields.io/badge/🧠%20PENSAR-42A5F5?style=for-the-badge">
-<img src="https://img.shields.io/badge/🚀%20EXPERIMENTAR-F9A825?style=for-the-badge">
+### 💻 Programar
 
-<br><br>
+Aprende los fundamentos de la programación.
 
-**Aprende haciendo, crea tus propias ideas y conviértelas en proyectos interactivos.**
+### 🎨 Crear
+
+Desarrolla tu imaginación y creatividad.
+
+### 🧠 Pensar
+
+Mejora tu lógica y resolución de problemas.
+
+### 🚀 Experimentar
+
+Crea, prueba, modifica y vuelve a intentar.
 
 ---
 
@@ -195,3 +184,4 @@ En lugar de escribir código complicado, permite programar utilizando **bloques 
 ### 💻 Aprende · 🎨 Crea · 🚀 Programa
 
 </div>
+
