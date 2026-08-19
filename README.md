@@ -1,5 +1,6 @@
-Claro. Te recomiendo darle una estructura tipo **README profesional**, con una portada, secciones bien separadas, tarjetas, columnas y espacios. Así no se verá como una lista de títulos amontonados.
+Claro. Te lo dejo **todo integrado y ordenado**, manteniendo tu contenido, pero mejorando la distribución, centrado y agregando más color visual a las tablas mediante badges y encabezados. También corregí el `</div>` que estaba sobrando.
 
+```markdown
 <div align="center">
 
 # ✨ SCRATCH
@@ -14,7 +15,10 @@ Claro. Te recomiendo darle una estructura tipo **README profesional**, con una p
 
 <br><br>
 
-`🎮 PROGRAMACIÓN` · `🎨 CREATIVIDAD` · `🧠 LÓGICA` · `🚀 PROYECTOS`
+<img src="https://img.shields.io/badge/🎮%20PROGRAMACIÓN-4C97FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🎨%20CREATIVIDAD-FF6680?style=for-the-badge">
+<img src="https://img.shields.io/badge/🧠%20LÓGICA-9966FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀%20PROYECTOS-FFAB19?style=for-the-badge">
 
 </div>
 
@@ -30,15 +34,37 @@ Claro. Te recomiendo darle una estructura tipo **README profesional**, con una p
 
 En lugar de escribir código complicado, permite programar utilizando **bloques que se conectan como piezas de rompecabezas**.
 
+<br>
+
 <div align="center">
 
-|       🎮 **Juegos**      | 🎬 **Animaciones** | 📖 **Historias** |
-| :----------------------: | :----------------: | :--------------: |
-| Crea juegos interactivos | Diseña animaciones | Cuenta historias |
+<table>
+<tr>
+<th>🎮 Juegos</th>
+<th>🎬 Animaciones</th>
+<th>📖 Historias</th>
+</tr>
+<tr>
+<td>🎯 Crea juegos interactivos</td>
+<td>✨ Diseña animaciones</td>
+<td>📚 Cuenta historias</td>
+</tr>
+</table>
 
-|  🤖 **Simulaciones**  |   💡 **Proyectos**   |    🎨 **Creaciones**   |
-| :-------------------: | :------------------: | :--------------------: |
-| Experimenta con ideas | Desarrolla proyectos | Expresa tu creatividad |
+<br>
+
+<table>
+<tr>
+<th>🤖 Simulaciones</th>
+<th>💡 Proyectos</th>
+<th>🎨 Creaciones</th>
+</tr>
+<tr>
+<td>🔬 Experimenta con ideas</td>
+<td>🚀 Desarrolla proyectos</td>
+<td>🌈 Expresa tu creatividad</td>
+</tr>
+</table>
 
 <br>
 
@@ -52,23 +78,54 @@ En lugar de escribir código complicado, permite programar utilizando **bloques 
 
 # 💎 Elementos de Scratch
 
-</div>
-
 ### 🧩 Bloques principales
 
-Los bloques permiten controlar diferentes partes de un proyecto:
+Los bloques permiten controlar diferentes partes de un proyecto.
 
-|   🔵 Movimiento  |   🟣 Apariencia   |      🔊 Sonido     |
-| :--------------: | :---------------: | :----------------: |
-| Mover personajes | Cambiar disfraces | Reproducir sonidos |
+<br>
 
-|    🟡 Eventos    |         🟠 Control         |      🔵 Sensores     |
-| :--------------: | :------------------------: | :------------------: |
-| Iniciar acciones | Repeticiones y condiciones | Detectar situaciones |
+<table>
+<tr>
+<th>🔵 Movimiento</th>
+<th>🟣 Apariencia</th>
+<th>🔊 Sonido</th>
+</tr>
+<tr>
+<td>🚶 Mover personajes</td>
+<td>🎭 Cambiar disfraces</td>
+<td>🎵 Reproducir sonidos</td>
+</tr>
+</table>
 
-|     🟢 Operadores    |     🔴 Variables    |
-| :------------------: | :-----------------: |
-| Realizar operaciones | Guardar información |
+<br>
+
+<table>
+<tr>
+<th>🟡 Eventos</th>
+<th>🟠 Control</th>
+<th>🔵 Sensores</th>
+</tr>
+<tr>
+<td>⚡ Iniciar acciones</td>
+<td>🔄 Repeticiones y condiciones</td>
+<td>👀 Detectar situaciones</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<th>🟢 Operadores</th>
+<th>🔴 Variables</th>
+</tr>
+<tr>
+<td>➗ Realizar operaciones</td>
+<td>💾 Guardar información</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -76,17 +133,35 @@ Los bloques permiten controlar diferentes partes de un proyecto:
 
 # 🎮 ¿Qué puedes crear?
 
-</div>
+<br>
 
-<div align="center">
+<table>
+<tr>
+<th>🎮 Juegos</th>
+<th>🎬 Animaciones</th>
+<th>📖 Historias</th>
+</tr>
+<tr>
+<td>🕹️ Juegos interactivos</td>
+<td>✨ Personajes animados</td>
+<td>📚 Historias digitales</td>
+</tr>
+</table>
 
-|      🎮 Juegos      |    🎬 Animaciones   |     📖 Historias    |
-| :-----------------: | :-----------------: | :-----------------: |
-| Juegos interactivos | Personajes animados | Historias digitales |
+<br>
 
-| 🎵 Proyectos musicales |    🤖 Simulaciones    |   🌎 Experimentos  |
-| :--------------------: | :-------------------: | :----------------: |
-|    Música y sonidos    | Situaciones virtuales | Ideas interactivas |
+<table>
+<tr>
+<th>🎵 Proyectos musicales</th>
+<th>🤖 Simulaciones</th>
+<th>🌎 Experimentos</th>
+</tr>
+<tr>
+<td>🎶 Música y sonidos</td>
+<td>🔬 Situaciones virtuales</td>
+<td>💡 Ideas interactivas</td>
+</tr>
+</table>
 
 </div>
 
@@ -101,39 +176,91 @@ Los bloques permiten controlar diferentes partes de un proyecto:
 <br>
 
 <table>
-  <tr>
-    <th>🌟 Habilidad</th>
-    <th>📚 Aprendizaje</th>
-  </tr>
-  <tr>
-    <td>💻 <strong>Programación</strong></td>
-    <td>Comprender conceptos básicos de programación</td>
-  </tr>
-  <tr>
-    <td>🧠 <strong>Pensamiento lógico</strong></td>
-    <td>Resolver problemas paso a paso</td>
-  </tr>
-  <tr>
-    <td>🎨 <strong>Creatividad</strong></td>
-    <td>Crear proyectos originales</td>
-  </tr>
-  <tr>
-    <td>🧩 <strong>Resolución de problemas</strong></td>
-    <td>Encontrar soluciones mediante la lógica</td>
-  </tr>
-  <tr>
-    <td>🚀 <strong>Innovación</strong></td>
-    <td>Transformar ideas en proyectos</td>
-  </tr>
+<tr>
+<th>🌟 Habilidad</th>
+<th>📚 Aprendizaje</th>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/💻%20Programación-4C97FF?style=flat-square">
+</td>
+<td>Comprender conceptos básicos de programación</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/🧠%20Pensamiento%20lógico-9966FF?style=flat-square">
+</td>
+<td>Resolver problemas paso a paso</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/🎨%20Creatividad-FF6680?style=flat-square">
+</td>
+<td>Crear proyectos originales</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/🧩%20Resolución%20de%20problemas-00C49A?style=flat-square">
+</td>
+<td>Encontrar soluciones mediante la lógica</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/🚀%20Innovación-FFAB19?style=flat-square">
+</td>
+<td>Transformar ideas en proyectos</td>
+</tr>
+
 </table>
 
 <br>
 
----
-
-### ✨ ¡Aprende, crea y transforma tus ideas con Scratch! 🚀
+<img src="https://img.shields.io/badge/🧠%20LÓGICA-9966FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🎨%20CREATIVIDAD-FF6680?style=for-the-badge">
+<img src="https://img.shields.io/badge/💻%20PROGRAMACIÓN-4C97FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀%20INNOVACIÓN-FFAB19?style=for-the-badge">
 
 </div>
+
+---
+
+<div align="center">
+
+# 🌊 Ejemplo de proyecto
+
+## 🤿 Aventura Submarina
+
+**Un juego donde un submarinista debe recoger objetos, conseguir puntos y evitar enemigos.**
+
+<br>
+
+<img src="imagen/1e.png" width="420">
+
+<br><br>
+
+<table>
+<tr>
+<th>🎯 Objetivo</th>
+<th>⭐ Puntuación</th>
+<th>⚠️ Desafío</th>
+</tr>
+<tr>
+<td>🪙 Recoger objetos</td>
+<td>🏆 Conseguir puntos</td>
+<td>👾 Evitar enemigos</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
 
 # 💠 Mis aprendizajes
 
@@ -155,21 +282,46 @@ Los bloques permiten controlar diferentes partes de un proyecto:
 
 <div align="center">
 
-# 🌊 Ejemplo de proyecto
+# 🚀 ¿Por qué aprender Scratch?
 
-## 🤿 Aventura Submarina
-
-**Un juego donde un submarinista debe recoger objetos, conseguir puntos y evitar enemigos.**
+**Scratch permite aprender haciendo y convertir las ideas en proyectos interactivos.**
 
 <br>
 
-<img src="imagen/1e.png" width="420">
+<table>
+<tr>
+<th>💻 Programar</th>
+<th>🎨 Crear</th>
+</tr>
+<tr>
+<td>Aprende los fundamentos de la programación.</td>
+<td>Desarrolla tu imaginación y creatividad.</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<th>🧠 Pensar</th>
+<th>🚀 Experimentar</th>
+</tr>
+<tr>
+<td>Mejora tu lógica y resolución de problemas.</td>
+<td>Crea, prueba, modifica y vuelve a intentar.</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/💻%20APRENDER-4C97FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🎨%20CREAR-FF6680?style=for-the-badge">
+<img src="https://img.shields.io/badge/🧠%20PENSAR-9966FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀%20EXPERIMENTAR-FFAB19?style=for-the-badge">
 
 <br><br>
 
-|   🎯 Objetivo   |   ⭐ Puntuación   |    ⚠️ Desafío   |
-| :-------------: | :--------------: | :-------------: |
-| Recoger objetos | Conseguir puntos | Evitar enemigos |
+### ✨ Aprende • Crea • Piensa • Experimenta
 
 </div>
 
@@ -177,25 +329,12 @@ Los bloques permiten controlar diferentes partes de un proyecto:
 
 <div align="center">
 
-# 🚀 ¿Por qué aprender Scratch?
+## 🎯 ¡Convierte tus ideas en proyectos con Scratch! 🚀
 
-**Scratch permite aprender haciendo y convertir las ideas en proyectos interactivos.**
-
-<br>
-
-| 💻 **Programar** | 🎨 **Crear** |
-|:---:|:---:|
-| Aprende los fundamentos de la programación. | Desarrolla tu imaginación y creatividad. |
-
-| 🧠 **Pensar** | 🚀 **Experimentar** |
-|:---:|:---:|
-| Mejora tu lógica y resolución de problemas. | Crea, prueba, modifica y vuelve a intentar. |
-
-<br>
-
----
-
-### ✨ Aprende • Crea • Piensa • Experimenta
+<img src="https://img.shields.io/badge/SCRATCH-4C97FF?style=for-the-badge&logo=scratch&logoColor=white">
 
 </div>
+```
+
+Con esta versión las secciones quedan **más uniformes**, las tablas están centradas y los colores de los badges ayudan a diferenciar cada habilidad sin hacer que el README se vea demasiado cargado.
 
